@@ -22,12 +22,12 @@ This Power BI dashboard analyzes mobile sales data to uncover insights on brand 
 ## Dashboard Pages
 1. **Dashboard Overview** – Overall KPIs, city map, brand & payment insights  
 2. **MTD Report** – Month-to-date sales performance with daily progress  
-3. **Same Period Last Year** – YoY comparison by month and quarter  
+3. **Same Period Last Year** – YoY comparison by month and quarter
 
-## Dashboard Previews
+## 🖼️ Dashboard Previews
 | Main Dashboard | MTD Report | YoY Comparison |
 |----------------|-------------|----------------|
-| ![Pg1](Mobile Sales Dashboard_Pg1.png) | ![Pg2](Mobile Sales Dashboard_Pg2.png) | ![Pg3](Mobile Sales Dashboard_Pg3.png) |
+| ![Main Dashboard](Mobile%20Sales%20Dashboard_Pg1.png) | ![MTD Report](Mobile%20Sales%20Dashboard_Pg2.png) | ![YoY Comparison](Mobile%20Sales%20Dashboard_Pg3.png) |
 
 ## How to Use
 1. Download the `.pbix` file  
